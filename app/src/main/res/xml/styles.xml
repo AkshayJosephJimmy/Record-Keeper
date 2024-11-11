@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- In res/values/styles.xml -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Change the Action Bar color -->
+        <item name="colorPrimary">#3F51B5</item> <!-- Change this color -->
+        <item name="colorPrimaryDark">#303F9F</item> <!-- Color for status bar -->
+        <item name="colorAccent">#FF4081</item>
+    </style>
+

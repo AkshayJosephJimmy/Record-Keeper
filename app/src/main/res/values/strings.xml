@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="reset_running_records">Reset running records</string>
+    <string name="reset_running_cycling">Reset running cycling</string>
+    <string name="reset_all_records">Reset all records</string>
+    <string name="clear_record">Clear Record</string>
+    <string name="save">Save</string>
+    <string name="date">Date</string>
+    <string name="record">Record</string>
+</resources>
